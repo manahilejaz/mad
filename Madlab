@@ -1,0 +1,10 @@
+{
+  "title": "Assignment3",
+  "logins": [
+    { "id": "1", "username": "Manahil", "password": "12345" },
+    { "id": "2", "username": "Hajra", "password": "12345" },
+    { "id": "3", "username": "Sohaib", "password": "12345" },
+    { "id": "4", "username": "Ali", "password": "12345" },
+    { "id": "5", "username": "Ayeza", "password": "12345" }
+  ]
+}
